@@ -1,0 +1,19 @@
+.board-container {
+  width: 660px;
+  height: 660px;
+  background-image: url("../../public/assets/wood.png");
+  transition: 2.5s;
+}
+
+.player-info {
+  font-size: 23px;
+  text-transform: uppercase;
+  position: absolute;
+  top: 280px;
+  left: 120px;
+  text-align: center;
+}
+
+.player-name {
+  font-size: 18px;
+}
